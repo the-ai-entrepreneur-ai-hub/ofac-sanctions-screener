@@ -1,6 +1,7 @@
 # OFAC Sanctions Screener — Automated SDN List Compliance Check
 
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify)](https://apify.com/george.the.developer/ofac-sanctions-screener)
+[![Available on RapidAPI](https://img.shields.io/badge/Also%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Screen companies, individuals, vessels, and addresses against the **US Treasury OFAC SDN (Specially Designated Nationals) sanctions list** with fuzzy matching, alias detection, and confidence scoring. Enterprise-grade compliance screening for **$0.01/entity** — no contracts, no minimums.
@@ -173,9 +174,19 @@ Enterprise sanctions screening tools charge **$5,000 - $100,000+/year**. This do
 - [Python API example](examples/python-api.py)
 - [MCP / AI Agent integration](examples/mcp-integration.md)
 
+## Also Available on RapidAPI
+
+Prefer a standard REST API? This screener is also available on **[RapidAPI](https://rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api)** with simple API key authentication:
+
+- **Free tier**: 50 requests/month
+- **Pro**: $39/month (1,000 requests)
+- **Ultra**: $99/month (5,000 requests)
+- **Mega**: $249/month (20,000 requests)
+
 ## Links
 
 - **Run this actor**: [apify.com/george.the.developer/ofac-sanctions-screener](https://apify.com/george.the.developer/ofac-sanctions-screener)
+- **Also on RapidAPI**: [rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api](https://rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api)
 - **Apify API docs**: [docs.apify.com/api/v2](https://docs.apify.com/api/v2)
 - **OFAC SDN List info**: [treasury.gov/ofac](https://www.treasury.gov/ofac)
 
