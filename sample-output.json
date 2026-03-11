@@ -1,26 +1,74 @@
 [
-  {
-    "queryName": "Bank Melli Iran",
-    "matchedName": "BANK MELLI IRAN",
-    "matchConfidence": 100,
-    "sanctionsList": "OFAC SDN",
-    "entityType": "entity",
-    "sdnUid": 25578,
-    "programs": ["IFSR", "IRAN", "SDGT"],
-    "aliases": ["BANK MELLI", "MELLI BANK", "NATIONAL BANK OF IRAN", "BMI"],
-    "addresses": [{"city": "Tehran", "country": "Iran"}],
-    "riskLevel": "CRITICAL",
-    "sdnListDate": "03/09/2026",
-    "screenedAt": "2026-03-11T00:00:00.000Z",
-    "source": "US Treasury OFAC SDN List"
-  },
-  {
-    "queryName": "Apple Inc",
-    "matchedName": null,
-    "matchConfidence": 0,
-    "riskLevel": "CLEAR",
-    "result": "NO_MATCH",
-    "message": "No sanctions matches found for \"Apple Inc\" above 70% confidence threshold.",
-    "source": "US Treasury OFAC SDN List"
-  }
+    {
+        "queryName": "Bank Melli Iran",
+        "matchedName": "BANK MELLI IRAN",
+        "matchConfidence": 100,
+        "sanctionsList": "OFAC SDN",
+        "entityType": "entity",
+        "sdnUid": 25578,
+        "programs": [
+            "IFSR",
+            "IRAN",
+            "SDGT"
+        ],
+        "aliases": [
+            "BANK MELLI",
+            "MELLI BANK",
+            "NATIONAL BANK OF IRAN",
+            "BMI"
+        ],
+        "addresses": [
+            {
+                "city": "Tehran",
+                "country": "Iran"
+            }
+        ],
+        "ids": [],
+        "riskLevel": "CRITICAL",
+        "sdnListDate": "03/09/2026",
+        "screenedAt": "2026-03-11T12:00:00.000Z",
+        "source": "US Treasury OFAC SDN List"
+    },
+    {
+        "queryName": "Gazprombank",
+        "matchedName": "GAZPROMBANK JOINT STOCK COMPANY",
+        "matchConfidence": 88,
+        "sanctionsList": "OFAC SDN",
+        "entityType": "entity",
+        "sdnUid": 36458,
+        "programs": [
+            "RUSSIA-EO14024"
+        ],
+        "aliases": [
+            "GAZPROMBANK",
+            "GAZPROMBANK AO",
+            "GPB"
+        ],
+        "addresses": [
+            {
+                "city": "Moscow",
+                "country": "Russia"
+            }
+        ],
+        "ids": [
+            {
+                "type": "SWIFT/BIC",
+                "value": "GAZPRUMM"
+            }
+        ],
+        "riskLevel": "CRITICAL",
+        "sdnListDate": "03/09/2026",
+        "screenedAt": "2026-03-11T12:00:01.000Z",
+        "source": "US Treasury OFAC SDN List"
+    },
+    {
+        "queryName": "Apple Inc",
+        "matchedName": null,
+        "matchConfidence": 0,
+        "riskLevel": "CLEAR",
+        "result": "NO_MATCH",
+        "message": "No sanctions matches found for \"Apple Inc\" above 70% confidence threshold.",
+        "screenedAt": "2026-03-11T12:00:02.000Z",
+        "source": "US Treasury OFAC SDN List"
+    }
 ]
