@@ -1,6 +1,6 @@
 # OFAC Sanctions Screener — Automated SDN List Compliance Check
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify)](https://apify.com/george.the.developer/ofac-sanctions-screener)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify)](https://apify.com/george.the.developer/ofac-sanctions-screener?fpr=bbquoh)
 [![Available on RapidAPI](https://img.shields.io/badge/Also%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -8,7 +8,7 @@ Screen companies, individuals, vessels, and addresses against the **US Treasury 
 
 > OFAC penalties can reach **$20 million per violation**. This actor screens your entities against the same official SDN data used by enterprise compliance tools, at a fraction of the cost.
 
-**[Run on Apify](https://apify.com/george.the.developer/ofac-sanctions-screener)** | **[API Docs](https://docs.apify.com/api/v2)**
+**[Run on Apify](https://apify.com/george.the.developer/ofac-sanctions-screener?fpr=bbquoh)** | **[API Docs](https://docs.apify.com/api/v2)**
 
 ---
 
@@ -185,7 +185,7 @@ Prefer a standard REST API? This screener is also available on **[RapidAPI](http
 
 ## Links
 
-- **Run this actor**: [apify.com/george.the.developer/ofac-sanctions-screener](https://apify.com/george.the.developer/ofac-sanctions-screener)
+- **Run this actor**: [apify.com/george.the.developer/ofac-sanctions-screener](https://apify.com/george.the.developer/ofac-sanctions-screener?fpr=bbquoh)
 - **Also on RapidAPI**: [rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api](https://rapidapi.com/georgethedeveloper3046/api/ofac-sanctions-screener-api)
 - **Apify API docs**: [docs.apify.com/api/v2](https://docs.apify.com/api/v2)
 - **OFAC SDN List info**: [treasury.gov/ofac](https://www.treasury.gov/ofac)
